@@ -76,3 +76,4 @@ console.log(t);
 
 ```
 
+3. 现在可以在终端输入npm run build执行编译
